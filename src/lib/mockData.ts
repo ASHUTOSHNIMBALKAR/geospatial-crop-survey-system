@@ -80,3 +80,5 @@ export const SUSTAINABILITY_STATS = [
   { name: 'Water Usage Efficiency', value: 72, target: 90 },
   { name: 'Carbon Credits Generated', value: 12480, target: 20000 },
 ];
+
+
