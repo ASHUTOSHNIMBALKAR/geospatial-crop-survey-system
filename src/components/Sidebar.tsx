@@ -95,3 +95,5 @@ export function Sidebar({ activeView, onViewChange }: SidebarProps) {
         </div>
     );
 }
+
+
